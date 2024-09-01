@@ -1,10 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
-    <h1>Build container automatic</h1>
-    <h1>Testing the container remove and rebuild</h1>
     <h1>Testing the container build by Ansible playbook</h1>
-    <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -33,7 +29,6 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h1> Test Poll SCM,Course recap</h1>
    <h1> Thankyou, Happy Learning !!! by Ahmed Morgan</h1>
 
   
