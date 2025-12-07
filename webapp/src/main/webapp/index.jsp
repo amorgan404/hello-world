@@ -29,7 +29,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-   <h1> Thank you, Happy Learning !!! by Ahmed Morgan</h1>
+   <h1> Thank you, !!! by Ahmed Morgan</h1>
 
   
 </form>
